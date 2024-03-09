@@ -12,6 +12,16 @@ A text-to-speech converter is an application that is used to convert the text co
 ## Screen
 ![project-9](https://github.com/Rahuljoshi07/Text-to-Speech-Converter-/assets/86591216/00c07f57-8f45-4183-92e0-af499f798d65)
 
+## Installation
+
+1. Clone the repository:
+
+    ```
+   git clone https://github.com/Rahuljoshi07/Text-to-Speech-Converter-.git
+    ```
+
+2. Open the `index.html` file in your web browser to view the website locally.
+
 
 ## Technologies Used
 
