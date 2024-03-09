@@ -29,6 +29,14 @@ A text-to-speech converter is an application that is used to convert the text co
 - CSS
 - JavaScript
 
+ ## Project Structure
+
+text-to-speech-converter/
+├── index.html
+├── style.css
+├── script.js
+└── README.md 
+
 ## Project Description
 
 The text-to-speech converter project provides a simple yet effective solution for users who want to convert their text content into speech. It offers a clean and intuitive user interface where users can input their desired text into a text area. Upon clicking the "Convert to Speech" button, the application converts the entered text into speech and plays the audio.
