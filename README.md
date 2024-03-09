@@ -37,3 +37,7 @@ Contributions to the project are welcome! If you have any suggestions, feature r
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+
+Special thanks to [GeeksofGeeks] for inspiration and guidance.
