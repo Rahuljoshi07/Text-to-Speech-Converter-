@@ -33,8 +33,11 @@ A text-to-speech converter is an application that is used to convert the text co
 
 text-to-speech-converter/
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 └── README.md 
 
 ## Project Description
